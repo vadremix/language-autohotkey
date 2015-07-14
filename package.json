@@ -1,7 +1,7 @@
 {
   "name": "language-autohotkey",
   "main": "./lib/language-autohotkey",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Syntax highlighting for AutoHotKey scripts.",
   "activationCommands": {
     "atom-text-editor": ["language-autohotkey:toggle"]
